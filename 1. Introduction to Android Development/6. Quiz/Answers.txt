@@ -1,0 +1,12 @@
+Q1. Content Provider
+Q2. startActivityForResult(Intent intent)
+Q3. ContextThemeWrapper
+Q4. finish()
+Q5. onCreate() -> onStart() -> onResume() ->onPause() -> onStop() -> onRestart() -> onDestroy()
+Q6. Manifest file
+Q7. Activities
+Q8. Both A and B
+Q9. 2
+Q10. Intent
+Q11. onAttach()
+Q12. paused state
